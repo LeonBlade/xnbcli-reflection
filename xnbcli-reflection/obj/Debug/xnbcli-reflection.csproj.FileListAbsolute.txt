@@ -1,0 +1,10 @@
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\bin\Debug\xnbcli-reflection.exe.config
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\bin\Debug\xnbcli-reflection.exe
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\bin\Debug\xnbcli-reflection.pdb
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\bin\Debug\Newtonsoft.Json.dll
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\obj\Debug\xnbcli-reflection.csprojAssemblyReference.cache
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\obj\Debug\xnbcli-reflection.csproj.CoreCompileInputs.cache
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\obj\Debug\xnbcli-reflection.csproj.CopyComplete
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\obj\Debug\xnbcli-reflection.exe
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\obj\Debug\xnbcli-reflection.pdb
+Y:\Users\LeonBlade\Developer\xnbcli-reflection\xnbcli-reflection\bin\Debug\StardewValley.DummyGameData.dll

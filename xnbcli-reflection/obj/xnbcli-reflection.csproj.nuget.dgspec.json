@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "Y:\\Users\\LeonBlade\\Developer\\xnbcli-reflection\\xnbcli-reflection\\xnbcli-reflection.csproj": {}
+  },
+  "projects": {
+    "Y:\\Users\\LeonBlade\\Developer\\xnbcli-reflection\\xnbcli-reflection\\xnbcli-reflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Y:\\Users\\LeonBlade\\Developer\\xnbcli-reflection\\xnbcli-reflection\\xnbcli-reflection.csproj",
+        "projectName": "xnbcli-reflection",
+        "projectPath": "Y:\\Users\\LeonBlade\\Developer\\xnbcli-reflection\\xnbcli-reflection\\xnbcli-reflection.csproj",
+        "packagesPath": "C:\\Users\\LeonBlade\\.nuget\\packages\\",
+        "outputPath": "Y:\\Users\\LeonBlade\\Developer\\xnbcli-reflection\\xnbcli-reflection\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\LeonBlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "Y:\\Users\\LeonBlade\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

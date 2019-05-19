@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xnbcli-reflection", "xnbcli-reflection\xnbcli-reflection.csproj", "{4D979A41-36D4-4932-8265-E3105BE9F135}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{64D359D4-B85F-4B74-9846-90FBBFF4EAFC}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D979A41-36D4-4932-8265-E3105BE9F135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D979A41-36D4-4932-8265-E3105BE9F135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D979A41-36D4-4932-8265-E3105BE9F135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D979A41-36D4-4932-8265-E3105BE9F135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9B9248-0928-44BF-87DC-F2664D84BBEF}
+	EndGlobalSection
+EndGlobal
