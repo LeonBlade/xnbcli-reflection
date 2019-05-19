@@ -1,3 +1,7 @@
+language: csharp
+solution: xnbcli-reflection.sln
+mono:
+  - latest
 os:
   - windows
   - linux
