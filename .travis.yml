@@ -1,8 +1,13 @@
 language: csharp
 solution: xnbcli-reflection.sln
 mono:
-  - latest
+- latest
 os:
-  - windows
-  - linux
-  - osx
+- linux
+- osx
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: DgKe9PJWGa2Kdurh0mxQ5xeF6XFsOdMNV9Fnz5nWi9N2u/DCibHhesDeQJW6kCVAk44IpxetiHeh1T3YyOmvHlDZ2k0Sn6y+aJl4lb5K5LCGTAejSP96NpbqDBp4U4fP8UoXXMbpzBI+OaMUDtZSXWhBXzLzttF6PO6rcDrFtuRg7GOKiYTB+p9HQzZ88152YQjwSRKfxOqEVSmKu58rUyFSQrtHhpw8efEEolG5BUNXj/PqAx6rKmdOymkN1HB5vVN20oKAYSuPgdiu59UfDVGq9rIbxniDCBiYb/01XTkA2tTdm+lCgUjU7dlycj0I50C3w7p9gEY0crn6JtH+X0Ve0AgxfulLk89gTQWzld93KhrOezB/TePL4b25bwvwE6VV9fPlYluhhjnXWoBWsBwBmc7VphWYoulfg4U1jduQfeNRrFcYz5Id7rHS1R5L02IcdvhwOMjxexvELybl9hsPqSnWoF7mBRON2ga2l+p/vq5mj7RGS88ZjBwPmTYnmKhjgGRoS5HJjOE+bljVbCmPjoVpsSj2yW5Jzk67o9dxzWUqdXiyjFwjQuOlkMzVLDRA2Q47YaAk+Q5mPc8e1XX50LllaRGzJBdzEO6rYYKakj3QTwG1V9JxTns4zV6aE81jAMmZAJGUTcA6sC+r9lH2kQIYUlErOVtEGmgTdOI=
+  file: xnbcli-reflection/bin/Release/xnbcli-reflection.exe
